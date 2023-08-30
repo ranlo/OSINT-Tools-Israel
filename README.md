@@ -2,7 +2,7 @@
 
 I have create a list of websites which have proved useful during OSINT investigations in Israel. Most of them are Hebrew only, but some have an English version as well.
 
-[[Israeli Corporations Authority]]([url](https://www.gov.il/en/service/company_extract)) -  - information about companies established in Israel, including filings, stock owners, stock transfers. Some reports may require payment
+[Israeli Corporations Authority](https://www.gov.il/en/service/company_extract) - information about companies established in Israel, including filings, stock owners, stock transfers. Some reports may require payment
 
 Car License Plate Search - https://www.gov.il/he/departments/dynamiccollectors/private-and-commercial-vehicles - basic information about vehicles by license plate (model and make, color, year, etc). Does not include owner information. Hebrew only.
 
