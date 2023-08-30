@@ -12,7 +12,7 @@ I have create a list of websites which have proved useful during OSINT investiga
 
 [Tagged Animal Registry](https://dogsearch.moag.gov.il/#/pages/pets) - Searchable by pet/owner name. Reveals pet name, vaccination history, owner name, address, phone number.
 
-[Tabu (Land Registry Extract)](https://www.gov.il/en/service/land_registration_extract) - only searchable by plot/parcel number, which means you may need to convert an address to plot/parcel (https://www.gov.il/apps/mapi/parcel_address/parcel_address.html, Hebrew only). Land registry extract requires payment. Provides the names and national ID of the owners of buildings/parcels, as well as information about liens.
+[Tabu (Land Registry Extract)](https://www.gov.il/en/service/land_registration_extract) - only searchable by plot/parcel number, which means you may need to [convert an address to plot/parcel](https://www.gov.il/apps/mapi/parcel_address/parcel_address.html) (Hebrew only). Land registry extract requires payment. Provides the names and national ID of the owners of buildings/parcels, as well as information about liens.
 
 [Non-Profit Registry](https://ica.justice.gov.il/Request/OpenRequest?rt=ExposeDocumentsAssociation) - information about non-profits, including board members. Requires payment. Hebrew only
 
