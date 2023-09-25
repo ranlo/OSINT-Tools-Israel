@@ -28,7 +28,13 @@ I have create a list of websites which have proved useful during OSINT investiga
 
 [Simplex3D](https://simplex3d.co.il/?en) - Hi-res satellite photos; 3D imagery of buildings
 
+# Court Records
 
+[Tolaat HaMispat](https://xn----8hcborozt8bdd.xn--9dbq2a/%D7%97%D7%99%D7%A4%D7%95%D7%A9#gsc.tab=0) - (Judicial Worm. Literally) - indexes court cases and decisions and allows searching them. Hebrew only.
+
+# Web Data
+
+[Whois](https://en.isoc.org.il/whois) - WHOIS for .il domains includes the contact persons' details
 
 
 
