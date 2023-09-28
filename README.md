@@ -36,5 +36,12 @@ I have create a list of websites which have proved useful during OSINT investiga
 
 [Whois](https://en.isoc.org.il/whois) - WHOIS for .il domains includes the contact persons' details
 
+# Airports and Aviation
+
+[Gen Burion Airport Arrivals & Departures](https://www.iaa.gov.il/en/airports/ben-gurion/flight-board/)
+
+[Ramon Airport Arrivals & Departures](https://www.iaa.gov.il/en/airports/ramon/flight-board/)
+
+[Israeli Aircraft Dataset](https://data.gov.il/dataset/aircraft_data_il/resource/bc00ed41-75d0-4d0f-9eca-3cd0a2c332cc) - Updated monthly by the Ministry of Transportation
 
 
