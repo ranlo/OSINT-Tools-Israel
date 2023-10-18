@@ -4,8 +4,6 @@ I have create a list of websites which have proved useful during OSINT investiga
 
 [Israeli Corporations Authority](https://www.gov.il/en/service/company_extract) - information about companies established in Israel, including filings, stock owners, stock transfers. Some reports may require payment
 
-[Car License Plate Search](https://www.gov.il/he/departments/dynamiccollectors/private-and-commercial-vehicles) - basic information about vehicles by license plate (model and make, color, year, etc). Does not include owner information. Hebrew only.
-
 [Tax Deductions](https://taxinfo.taxes.gov.il/gmishurim/firstPage.aspx) - Check a business owner's name, address, SOC code by National ID number. Only works if they registered as a business owner. For married women this shows their spouse's ID number. Hebrew only.
 
 [Tax Authority (VAT)](https://taxinfo.taxes.gov.il/emosek/wHzanatTik.aspx) - Check if an individual is a registered entity for VAT purposes. Returns up to date address. Hebrew only.
@@ -44,4 +42,10 @@ I have create a list of websites which have proved useful during OSINT investiga
 
 [Israeli Aircraft Dataset](https://data.gov.il/dataset/aircraft_data_il/resource/bc00ed41-75d0-4d0f-9eca-3cd0a2c332cc) - Updated monthly by the Ministry of Transportation
 
+# Vehicles
 
+[Car License Plate Search](https://www.gov.il/he/departments/dynamiccollectors/private-and-commercial-vehicles) - basic information about vehicles by license plate (model and make, color, year, etc). Does not include owner information. Hebrew only.
+
+[Ownership History](https://www.gov.il/he/Departments/DynamicCollectors/private_vehicle_history_2) - History of ownership changes for a vehicle. Returns Month+Year, ownership type (company, individual, dealership, etc). No owner information. Hebrew only.
+
+[Mechanical changes history](https://www.gov.il/he/Departments/DynamicCollectors/private_vehicle_history_1) - History of mechanical changes. Mileage at last annual inspection. No owner information. Hebrew only.
