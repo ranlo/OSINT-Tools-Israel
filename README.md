@@ -26,6 +26,8 @@ I have create a list of websites which have proved useful during OSINT investiga
 
 [Simplex3D](https://simplex3d.co.il/?en) - Hi-res satellite photos; 3D imagery of buildings
 
+[Doctors Registry](https://practitioners.health.gov.il/Practitioners/1/search) - Doctors registry. Search by name, license number, specialty. Hebrew only
+
 # Court Records
 
 [Tolaat HaMishpat](https://xn----8hcborozt8bdd.xn--9dbq2a/%D7%97%D7%99%D7%A4%D7%95%D7%A9#gsc.tab=0) - (Judicial Worm. Literally) - indexes court cases and decisions and allows searching them. Hebrew only.
